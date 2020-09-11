@@ -1,10 +1,10 @@
 //------------------------------------------------
 // dmem.v
-// James E. Stine
-// February 1, 2018
-// Oklahoma State University
-// ECEN 4243
-// Harvard Architecture Data Memory (Big Endian)
+// 
+// 
+// 
+// 
+// 
 //------------------------------------------------
 
 module dmem (mem_out, r_w, clk, mem_addr, mem_data, MStrobe, PCReady);
